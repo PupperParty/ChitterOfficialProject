@@ -1,0 +1,28 @@
+html, body{
+  height: 100%;
+  margin: 0;
+}
+.header
+{
+	color: white;font-family: 'sans-serif';font-size: 45px;letter-spacing: 7px;margin-top: 80px;
+}
+
+body {
+background-image: linear-gradient(to right top, #c02c12, #e07131, #d4aa1f, #e986d3);
+color:darkviolet;
+}
+.logo {
+    width: 80px;margin-top: 30px;border-radius: 40px;
+}
+.login_div
+{
+	background:rgb(20, 183, 247);float: none;border-radius: 15px;
+}
+.header img
+{
+	width: 90px;margin-left: 15px;
+}
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
